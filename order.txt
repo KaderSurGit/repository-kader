@@ -1,0 +1,11 @@
+
+data
+    PFRiddles.json
+    TRClues.json
+math_challenges.py
+chance_challenges.py
+logical_challenges.py
+pere_fouras_challenge.py
+final_challenge.py
+utility_functions.py
+main.py
